@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="player_1_name">Сергей</string>
+    <string name="player_2_name">Андрей</string>
+    <string name="player_3_name">Иван</string>
+    <string name="isNewGame_ad_title">Игра окончена</string>
+    <string name="isNewGame_ad_positive">Да</string>
+    <string name="isNewGame_ad_negative">Нет</string>
+    <string name="toast_gameOver_text">Игра окончена</string>
+    <string name="isNewGame_ad_message_1">Ничья</string>
+    <string name="isNewGame_ad_message_2">"Победитель: "</string>
+    <string name="isNewGame_ad_message_global">. Начать новую игру?</string>
+    <string name="playersResults_text_1">"Игрок: "</string>
+    <string name="playersResults_text_2">", побед: "</string>
+    <string name="playersResults_text_3">", фигура: "</string>
+    <string name="figureView_winner_name">победа</string>
+    <string name="figureView_red_cross_name">"красные крестики"</string>
+    <string name="figureView_blue_circle_name">"синие нолики"</string>
+    <string name="figureView_green_square_name">"зеленые квадраты"</string>
+    <string name="figureView_yellow_square_name">"желтые квадраты"</string>
+</resources>
